@@ -1,0 +1,1 @@
+This is the second of my two HTML/CSS Folders - this one is dedicated to personal projects, at first, I will upload a few things I build on freeCodeCamp.org & will start building some of my own personal projects that I would like to share. 
